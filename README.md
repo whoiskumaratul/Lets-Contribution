@@ -1,2 +1,3 @@
 # Lets-Contribution
-Wait file will be update..
+This is my first contribution and wait
+file will be updated...
